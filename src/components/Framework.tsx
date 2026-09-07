@@ -102,7 +102,7 @@ export default function Framework() {
               href="#pricing"
               className="group inline-flex items-center gap-2.5 bg-ink px-7 py-4 font-mono text-sm font-bold uppercase tracking-[0.12em] text-paper transition-all hover:-translate-y-1 hover:shadow-[6px_6px_0_0_#3cf0a0]"
             >
-              Start the System — $49
+              Start the System — $37
               <ArrowUpRight className="h-4 w-4 transition-transform group-hover:translate-x-1 group-hover:-translate-y-1" />
             </a>
             <p className="font-mono text-[10px] uppercase tracking-[0.25em] text-ink/50">

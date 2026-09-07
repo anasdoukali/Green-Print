@@ -56,7 +56,7 @@ export default function Nav() {
               href="#pricing"
               className="group hidden items-center gap-2 bg-mint px-4 py-2 font-mono text-[11px] font-bold uppercase tracking-[0.15em] text-ink transition-all hover:-translate-y-0.5 hover:shadow-[4px_4px_0_0_#14b673] sm:flex"
             >
-              Get the Playbook — $49
+              Get the Playbook — $37
               <ArrowUpRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
             </a>
             <button
@@ -96,7 +96,7 @@ export default function Nav() {
               onClick={() => setOpen(false)}
               className="mt-8 flex items-center justify-center gap-2 bg-mint px-6 py-4 font-mono text-sm font-bold uppercase tracking-[0.15em] text-ink"
             >
-              Get the Playbook — $49 <ArrowUpRight className="h-4 w-4" />
+              Get the Playbook — $37 <ArrowUpRight className="h-4 w-4" />
             </a>
           </motion.div>
         )}

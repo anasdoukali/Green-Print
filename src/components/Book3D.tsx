@@ -178,7 +178,7 @@ export default function Book3D({
               <textPath href="#circ">LIFETIME ACCESS • SELF-PACED • INSTANT START •</textPath>
             </text>
           </svg>
-          <span className="font-sans text-xl font-bold text-mint">$49</span>
+          <span className="font-sans text-xl font-bold text-mint">$37</span>
         </div>
       </motion.div>
 

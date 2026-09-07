@@ -110,7 +110,7 @@ export default function Audience() {
               <ArrowUpRight className="h-4 w-4 transition-transform group-hover:translate-x-1 group-hover:-translate-y-1" />
             </a>
             <p className="font-mono text-[10px] uppercase tracking-[0.25em] text-fog">
-              $49 · One-time payment · Lifetime access
+              $37 · One-time payment · Lifetime access
             </p>
           </div>
         </Reveal>

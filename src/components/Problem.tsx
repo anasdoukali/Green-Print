@@ -82,7 +82,7 @@ export default function Problem() {
             href="#pricing"
             className="group mt-10 inline-flex items-center gap-2.5 bg-mint px-7 py-4 font-mono text-sm font-bold uppercase tracking-[0.12em] text-ink transition-all hover:-translate-y-1 hover:shadow-[6px_6px_0_0_#14b673]"
           >
-            Get the Playbook — $49
+            Get the Playbook — $37
             <ArrowUpRight className="h-4 w-4 transition-transform group-hover:translate-x-1 group-hover:-translate-y-1" />
           </a>
         </Reveal>

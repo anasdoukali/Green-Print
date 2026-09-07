@@ -55,7 +55,7 @@ export default function Pricing() {
                   <div className="mt-8 flex items-end gap-3">
                     <span className="font-sans text-7xl font-bold tracking-tighter text-bone">
                       <span className="align-top text-2xl text-fog">$</span>
-                      49
+                      37
                     </span>
                     <span className="mb-2.5 font-mono text-base text-fog line-through">$99</span>
                   </div>
