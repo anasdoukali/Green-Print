@@ -66,8 +66,7 @@ export default function Pricing() {
 
                 <div>
                   <a
-                    href="#"
-                    onClick={(e) => e.preventDefault()}
+                    href="https://theobinadir.gumroad.com/l/huftfi"
                     className="group mt-8 flex items-center justify-center gap-2 bg-mint px-6 py-4 font-mono text-sm font-bold uppercase tracking-[0.12em] text-ink transition-all hover:-translate-y-1 hover:shadow-[6px_6px_0_0_#14b673]"
                   >
                     Get instant access
