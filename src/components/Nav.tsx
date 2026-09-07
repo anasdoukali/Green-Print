@@ -33,7 +33,11 @@ export default function Nav() {
       >
         <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-5 md:px-8">
           <a href="#top" className="flex items-center gap-2">
-            <span className="grid h-7 w-7 place-items-center bg-mint font-mono text-sm font-bold text-ink">GP</span>
+            <img
+              src="/images/green-print-logo.png"
+              alt="Green Print"
+              className="h-9 w-9 object-contain"
+            />
             <span className="font-mono text-sm font-bold tracking-[0.18em] text-bone">
               GREEN<span className="text-mint">·</span>PRINT
             </span>

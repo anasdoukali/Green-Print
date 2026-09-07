@@ -1,4 +1,4 @@
-import { ArrowUpRight, Rocket } from "lucide-react";
+import { ArrowUpRight } from "lucide-react";
 import { Reveal } from "./Section";
 
 export function FinalCta() {
@@ -73,9 +73,11 @@ export function Footer() {
       <div className="mx-auto max-w-7xl px-5 py-12 md:px-8">
         <div className="flex flex-col items-start justify-between gap-8 md:flex-row md:items-center">
           <div className="flex items-center gap-3">
-            <span className="grid h-9 w-9 place-items-center bg-mint">
-              <Rocket className="h-4 w-4 text-ink" />
-            </span>
+            <img
+              src="/images/green-print-logo.png"
+              alt="Green Print"
+              className="h-11 w-11 object-contain"
+            />
             <div>
               <p className="font-mono text-sm font-bold tracking-[0.18em] text-bone">
                 GREEN<span className="text-mint">·</span>PRINT
